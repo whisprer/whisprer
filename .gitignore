@@ -1,0 +1,29 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Ignore temp directories
+temp/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
