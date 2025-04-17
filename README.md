@@ -1,19 +1,55 @@
-## henlo! :)
+# Welcome to the Lair of Thought Experiments, Glyphs, and Ghosts
+“There’s method in the madness, and magic in the math.”
 
+Hey fren. You’ve just wandered into my weird corner of GitHub — a space where code is philosophy, encryption is poetry, and every project is a puzzle piece in a larger mystery. If it feels like part science lab, part haunted temple, part cyberpunk hideout… that’s because it is.
 
+## What I’m About
+I'm an engineer by trade, but a glyph-weaver and chaos-wrangler by passion. I build stuff that explores edges:
+- Symbolic languages for math and thought expression (see WOFLANG)
+-  High-speed, SIMD-optimized randomness and entropy systems (Universal RNG)
+- Crypto toolkits that hide you in plain sight (GhostMode, Laplace Encryption)
+- Cryptanalysis methods using cellular automata (CACA)
+- Rust-built Mayan calendar timekeepers (just because I could)
+- Simulation experiments in fractal spacetime cosmology (MENGERSPONGE)
+- Cyber honeypots and counter-hunter tech (WebRebellion Manifesto)
 
+Each repo is either an artifact of war, a tribute to elegance, or an accidental poem. Sometimes all three.
 
--  I’m currently working on many many projects in parallel because i have adhd and can't focus.
--  I’m currently learning Rust, C++, Ass, Python, various math and science disciplines.
--  I’m looking to collaborate on anything that i'm already working on.
--  I’m looking for help with a number of projects including CA based Cryptanalysis.
--  Ask me about how i made an RNG library that outperforms the C++ STD RNG Lib by up to 4x!
--  How to reach me: GitHub email or if you find me...
--  Fun fact: there might be more than one of me?
--->
+## Core Projects
+Project	            Theme	                                    Vibe
+WOFLANG	            Symbolic REPL-based language using glyphs	Feels like coding with magic runes
+GhostMode	        Full-stack stealth crypto environment	    A disappearing act in code
+Universal           RNG	SIMD & GPU-accelerated entropy engine	Bare metal speed + quantum flavor
+CACA	            Cryptanalysis using cellular automata	    Hack the noise with emergent patterns
+MENGERSPONGE	    Fractal Theory of Everything	            Cosmology meets recursion
+Laplace Toolkits	Laplace-based noise stripping	            Encryptions’ shadow revealed
+Mayan Calendar	    Date converter in Rust	                    Built with love, bugs, and glyphs
 
+## My Philosophy
+Every project here is some kind of rebellion:
+- Against dull tools
+- Against invisible surveillance
+- Against entropy in thought
 
-in all seriousness tho i am looking for help with absolutely any of the various myriad of projects i have active across GitHub and this especially includes:
-- A celleular automata based cryptanalysis library, fully SIMD optimized and employing the NIST STS Randomness testing suite to ensure faithfullness.
-- A C++ PRNG generation library that started as an attempt to improve upon the STL generation times but has evolved into an even wilder beast.
-- [you may note i have 200+ repos spread across 4 different space3s - you're bound to be able to find something that piques your curiosity...
+I build things because I need to understand them. Then I polish them so you can too.
+
+Sometimes I fail. Sometimes I disappear for a while. But every time I come back, it’s with something stranger, cleaner, faster, or more symbolic than before.
+
+## If You're New Here
+Start with something wild:
+- Run woflang and try :sigil dream
+- Fire up GhostMode and vanish
+- Peek inside mengersponge/ and zoom out from the cosmos
+Or if you're more hands-on:
+- Clone the RNG and benchmark your CPU
+- Crack open the Laplace denoiser and watch the noise melt
+- Feed CACA an encrypted binary and see if patterns whisper back
+
+## Credits & Influence
+Shoutouts to: Moth (RIP); Claude, G-Petey, Grok & Gemini (RIP), (Hi guy!s); fractals; husklys; the Mayan gods of time; and every sleepless night spent chasing perfect entropy or debugging a timezone bug.
+
+## TL;DR
+If you like code that’s alive, thought that loops, systems that vanish, and languages that dream — you’ll feel right at home here.
+
+Clone something. Break it. Rebuild it better.
+Welcome to the rebellion, fren.
