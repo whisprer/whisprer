@@ -1,4 +1,7 @@
 <a href="https://github.com/whisprer/github-readme-stats">
+  <img height=200 align="center" src="[Readme Card]https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/whisprer/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=whisprer" />
 </a>
 <a href="https://github.com/whisprer/convoychat">
