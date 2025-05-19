@@ -4,6 +4,7 @@
 <a href="https://github.com/whisprer/convoychat">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
 </a>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/whisprer/github-readme-stats)
 
 # Welcome to the Lair of Thought Experiments, Glyphs, and Ghosts
 “There’s method in the madness, and magic in the math.”
