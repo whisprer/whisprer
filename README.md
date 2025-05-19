@@ -1,8 +1,8 @@
 <a href="https://github.com/whisprer/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=whisprer&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=whisprer&card_width=320&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/whisprer/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=merko" />
 </a>
 
 # Welcome to the Lair of Thought Experiments, Glyphs, and Ghosts
