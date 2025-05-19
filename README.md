@@ -1,3 +1,10 @@
+<a href="https://github.com/whisprer/github-readme-stats">
+  <img height=200 align="center" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/whisprer?username=ffflabs)]" />
+</a>
+<a href="https://github.com/whisprer/github-readme-stats">
+  <img height=200 align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 # Welcome to the Lair of Thought Experiments, Glyphs, and Ghosts
 “There’s method in the madness, and magic in the math.”
 
