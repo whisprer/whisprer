@@ -2,7 +2,7 @@
   <img
     height="200"
     align="right"
-    src="[![Harlok's WakaTime stats]https://github-readme-stats.vercel.app/api/wakatime?username=whisprer&card_width=320&show_icons=true&theme=tokyonight"
+    src="[![Harlok's WakaTime stats]https://github-readme-stats.vercel.app/api/wakatime?username=whisprer&card_width=160&show_icons=true&theme=tokyonight"
     alt="Harlok's WakaTime stats"
   />
 </a>
@@ -11,7 +11,7 @@
   <img
     height="200"
     align="right"
-    src="https://github-readme-stats.vercel.app/api/?username=whisprer&card_width=320&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/?username=whisprer&card_width=280&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 </a>
@@ -20,7 +20,7 @@
   <img
     height="100"
     align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=140&show_icons=true&theme=tokyonight"
     alt="Top Languages"
   />
 </a>
