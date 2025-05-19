@@ -1,10 +1,30 @@
 <a href="https://github.com/whisprer/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/?username=whisprer&card_width=320&show_icons=true&theme=tokyonight" />
+  <img
+    height="200"
+    align="right"
+    src="[![Harlok's WakaTime stats]https://github-readme-stats.vercel.app/api/wakatime?username=whisprer&card_width=320&show_icons=true&theme=tokyonight"
+    alt="Harlok's WakaTime stats"
+  />
 </a>
+
+<a href="https://github.com/whisprer/github-readme-stats">
+  <img
+    height="200"
+    align="right"
+    src="https://github-readme-stats.vercel.app/api/?username=whisprer&card_width=320&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</a>
+
 <a href="https://github.com/whisprer/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+  <img
+    height="100"
+    align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight"
+    alt="Top Languages"
+  />
 </a>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/whisprer/github-readme-stats)
+
 
 # Welcome to the Lair of Thought Experiments, Glyphs, and Ghosts
 “There’s method in the madness, and magic in the math.”
