@@ -1,5 +1,5 @@
 <a href="https://github.com/whisprer/github-readme-stats">
-  <img height=200 align="center" src="[Readme Card]https://github-readme-stats.vercel.app/api/pin/?username=whisprer&layout=compact&card_width=320" />
+  <img height=200 align="center" src="[Readme Card]https://github-readme-stats.vercel.app/api?username=whisprer&layout=compact&card_width=320" />
 </a>
 <a href="https://github.com/whisprer/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=whisprer" />
