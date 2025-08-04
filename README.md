@@ -1,30 +1,36 @@
 <a href="https://github.com/whisprer/github-readme-stats">
   <img
-    height="200"
+    height="250"
     align="right"
     ![whisprer's GitHub stats](https://github-readme-stats.vercel.app/api?username=whisprer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-&show_icons=true&theme=tokyonight"
+&card_width=280&show_icons=true&theme=tokyonight"
     alt="whisprer's WakaTime stats"
   />
 </a>
 
 <a href="https://github.com/whisprer/github-readme-stats">
   <img
-    height="200"
+    height="250"
     align="right"
-    ![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&exclude_repo=repo1,repo2,&hide=language,language&card_width=280&show_icons=true&theme=tokyonight&layout=compact"
+    ![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&exclude_repo=repo1,repo2,&hide=language1,language3&card_width=280&show_icons=true&theme=tokyonight&layout=compact"
     alt="GitHub Stats
   />
 </a>
 
 <a href="https://github.com/whisprer/convoychat">
   <img
-    height="100"
+    height="150"
     align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=140&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=280&show_icons=true&theme=tokyonight"
     alt="Top Languages"
   />
 </a>
+
+
+
+
+
+
 
 
 # Welcome to the Lair of Thought Experiments, Glyphs, and Ghosts
