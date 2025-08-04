@@ -1,7 +1,7 @@
 <a href="https://github.com/whisprer/github-readme-stats">
   <img
-    height="250"
-    align="right"
+    height="300"
+    align="left"
     ![whisprer's GitHub stats](https://github-readme-stats.vercel.app/api?username=whisprer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 &card_width=280&show_icons=true&theme=tokyonight"
     alt="whisprer's WakaTime stats"
@@ -10,8 +10,8 @@
 
 <a href="https://github.com/whisprer/github-readme-stats">
   <img
-    height="250"
-    align="right"
+    height="300"
+    align="leeft"
     ![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&exclude_repo=repo1,repo2,&hide=language1,language3&card_width=280&show_icons=true&theme=tokyonight&layout=compact"
     alt="GitHub Stats
   />
@@ -19,9 +19,9 @@
 
 <a href="https://github.com/whisprer/convoychat">
   <img
-    height="150"
-    align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=280&show_icons=true&theme=tokyonight"
+    height="300"
+    align="center"
+    github-readme-stats.vercel.app/api/top-langs?username=whisprer&layout=compact&langs_count=8&card_width=280&show_icons=true&theme=tokyonight"
     alt="Top Languages"
   />
 </a>
@@ -37,7 +37,7 @@
 
 <a href="https://gist.github.com/whisprer/bbfce31e0217a3689c8d961a356cb10d">
   <img
-    height="150"
+    height="300"
     align="right"
     [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)]
     alt="Top Languages"
