@@ -2,8 +2,9 @@
   <img
     height="200"
     align="right"
-    src="[![Harlok's WakaTime stats]https://github-readme-stats.vercel.app/api/wakatime?username=whisprer&card_width=160&show_icons=true&theme=tokyonight"
-    alt="Harlok's WakaTime stats"
+    ![whisprer's GitHub stats](https://github-readme-stats.vercel.app/api?username=whisprer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+&show_icons=true&theme=tokyonight"
+    alt="whisprer's WakaTime stats"
   />
 </a>
 
@@ -11,8 +12,8 @@
   <img
     height="200"
     align="right"
-    src="https://github-readme-stats.vercel.app/api/?username=whisprer&card_width=280&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
+    ![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&exclude_repo=repo1,repo2,&hide=language,language&card_width=280&show_icons=true&theme=tokyonight&layout=compact"
+    alt="GitHub Stats
   />
 </a>
 
