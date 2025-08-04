@@ -26,12 +26,23 @@
   />
 </a>
 
+<a href="https://github.com/whisprer/convoychat">
+  <img
+    height="150"
+    align="right"
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whisprer&repo=github-readme-stats)])
+    alt="Top Languages"
+  />
+</a>
 
-
-
-
-
-
+<a href="https://gist.github.com/whisprer/bbfce31e0217a3689c8d961a356cb10d">
+  <img
+    height="150"
+    align="right"
+    [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)]
+    alt="Top Languages"
+  />
+</a>
 
 # Welcome to the Lair of Thought Experiments, Glyphs, and Ghosts
 “There’s method in the madness, and magic in the math.”
