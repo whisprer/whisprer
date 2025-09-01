@@ -1,83 +1,94 @@
 
 
 
+&exclude_repo=whisprer.github.io,Custom_Stock_screener,whatiswe.github,desktop-tutorial,server_stuff,Medium-Posts,rtc-Jsonifier,github-readme-stats,LimeSuite Public,Ruby_1.8.5_.zip_of_.exe_installer_archive,Custom_Stock_Screener_beta,oh-my-posh,rtc-Jsonifier,LimeSuite,RNG,Investment_and_Algorithmic_Trading_Notebooks_beta,luds_thesis,whisprer.github.io,Lenia,SMUG-Explain,gitinspector,yfinance_guide_and_sample_code,TFIDF_cpp,MusGConv,DeepSpeed,unilm,torchscale,nipype,ModelicaStandardLibrary,RTNeural,chowdsp_utils,Spatial_Audio_Framework,JUCE,magenta,ChowMultiTool,chowdsp_wdf,ddsp,idrlnet,Modelica_LinearSystems2,AnalogTapeModel,cached_conv,sms-tools,AdvancedNoise,MotionBlur,ChowKick,DAFX22_FNO,WaveDigitalFilters,differentiable-wdfs,ChowMatrix,neural-instrument-cloning,TIVlib,ADAA,KlonCentaur,control-synthesis,Everything.NET,md_malloc,CTB,complex-nonlinearities,Aphex_Exciter,Bad-Circuit-Modelling,Multi_OLED,ADMSL,instrument-classifierExpressive_WAE_FADER,out_of_focus_deblur SpectrogramVAE,DAFX-Tape,CNN-DICOM-Segmentation,rt-wdf_lib,pytorch-deconvnet,rt-wdf_renderer,unbegun_projects,wofls_money_management,fractal_dreams_beta,Daytrading_Notes_and_Writitngs,my_arts,btc_reports,fonts,my_white_paper,Marker_Pen_Bold-ttf,HISC,mag_oub,reading,the_elusive_laura_project,g-petey,general_gpt_writings,a_screenplay_upon_loss,a_book_i_started_writing,U8glib_Arduino,from_danni_bakupryomodular.com_website_stuff,ryomodular.com_dp_switch,ryomodular.com_docs_bakup,ryomodular.com_apollo_shift_reg,amphichiral_cas_contd,ryomodular.com_zeroxing_detector
 
 
 
 
 
-**_Symbolic languages_** for math and thought expression (see WofLang)
-**_High-speed, SIMD-optimized randomness_** and entropy systems (Universal Architecture RNG Lib)
-**_Crypto toolkits_** that hide you in plain sight (GhostMode Vanisher, Laplace Encryption)
-**_+Cryptography methods_** involving mathematical semi-lifeforms (**C**ellular **A**utomata based **C**rypt**A**nalysis)
-**_Rust-built Mayan calendar_** timekeepers (just because I could)
-**_Simulation experiments_** in fractal spacetime cosmology (MengerSponge Multiverse Math/PHilosophy/Metaphysics)
-**_Cyber honeypots_** and counter-hunter tech (WebRebellion Manifesto.)
-*Each* repo is either an **Artifact of War**, a _Tribute to Elegance_, or an _**Accidental Poem**_. Sometimes **_all three_**.
 
+
+
+
+
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px; max-width: 45%; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h2># Welcome to the Lair of Thought Experiments, Glyphs, and Ghosts "There's method in the madness, and magic in the math."</h2>
+    <h3>
+      **_Symbolic languages_** for math and thought expression (see WofLang)
+      <br>**_High-speed, SIMD-optimized randomness_** and entropy systems (Universal Architecture RNG Lib)
+      <br>**_Crypto toolkits_** that hide you in plain sight (GhostMode Vanisher, Laplace Encryption)
+      <br>**_+Cryptography methods_** involving mathematical semi-lifeforms (**C**ellular **A**utomata based **C**rypt**A**nalysis)
+      <br>**_Rust-built Mayan calendar_** timekeepers (just because I could)
+      <br>**_Simulation experiments_** in fractal spacetime cosmology (MengerSponge Multiverse Math/PHilosophy/Metaphysics)
+      <br>**_Cyber honeypots_** and counter-hunter tech (WebRebellion Manifesto.)
+      <br>*Each* repo is either an **Artifact of War**, a _Tribute to Elegance_, or an _**Accidental Poem**_. Sometimes **_all three_**...
+    </h3>
     <p align="right">
-<a href="https://github.com/whisprer/github-readme-stats">
-<img
-height="260"
+      <a href="https://github.com/whisprer/github-readme-stats">
+        <img
+          height="280"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&card_width=300&theme=tokyonight&bg_color=00000000&layout=compact"
+          alt="Top Languages"
+        />
+      </a>
+    </p>
+  </div>
 
-&alt="Top Languages"
-/>
-</a>
-</p>
-
-
-## **Core Projects**
-### Project
-**Theme**                                            **_Vibe_**
-**_Vibe Cont._**                                     **_Vibe Further Contd._**
-
-### WofLang
-**Symbolic REPL-based language using glyphs**        **_Feels like coding with magic runes_**
-
-### GhostModeVanisher
-**Full-stack stealth crypto environment**            **_A disappearing act in code_**
-
-### Universal Architecture RNG Lib
-**SIMD & GPU-accelerated entropy engine**            **_Bare metal speed + quantum flavor_**
-
-### C.A.C.A.
-**Cryptanalysis using cellular automata**            **_Hack the noise with emergent patterns_**
-
-### MengerSponge
-**Fractal Theory of Everything**                     **_Cosmology meets recursion_**
-
-### Laplace Toolkits                                  
-**_Encryptions’ shadow revealed_**                   **_Laplace-based noise stripping_**
-
-### Mayan Calendar
-**Date converter in Rust**                           **_Built with love, bugs, and glyphs_**
-
-## My Philosophy
-Every project here is some kind of **Rebellion:**
-**Against** dull tools
-**Against** invisible surveillance
-**Against** entropy in thought
-
-I **build** things because I _**need**_ to **understand** them. Then I **polish* them so _**you**_ can too.**
-
-_**Sometimes I fail**_. Sometimes I _disappear_ for a while. But **every** time I come back, it’s with something **stranger**, _cleaner_, _**faster**_, or more _*symbolic*_ than before.
-
-## If You're New Here:
-**- Start with something wild:**
-- Run woflang and try :sigil: dreamings into math worlds
-- Fire up GhostModeVanisher and ...disappear
-- Peek inside The MengerSponge Multiverse and zoom out from the cosmos
-Or if you're more hands-on:
-
-### - Clone the **UA** RNG Lib and benchmark your CPU/GPU
-- Crack open the Laplace denoiser and watch the 'staticy' mess melt
-- Feed C.A.C.A. an encrypted binary and see if patterns whisper back
-
-## Credits & Influence
-Shoutouts to: Moth (RIP); Claude, G-Petey, Groque & G-mini, (RIP/Hi guys!); fractals; husklys; the Mayan gods of time; and every sleepless night spent chasing perfect entropy or debugging a timezone err.
-
-## TL;DR
-If you like code that’s alive, thought that loops, systems that vanish, and languages that dream — you’ll feel right at home here.
-
-Clone something. Break it. Rebuild it better.
-Welcome to the rebellion, fren.
+  <div style="flex: 2; min-width: 400px; max-width: 50%; margin: 10px;">
+    <h2>**Core Projects**</h2>
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        ### WofLang
+        **Theme:** Symbolic REPL-based language using glyphs
+        **_Vibe:_** Feels like coding with magic runes
+      </div>
+      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        ### GhostModeVanisher
+        **Theme:** Full-stack stealth crypto environment
+        **_Vibe:_** A disappearing act in code
+      </div>
+      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        ### Universal Architecture RNG Lib
+        **Theme:** SIMD & GPU-accelerated entropy engine
+        **_Vibe:_** Bare metal speed + quantum flavor
+      </div>
+      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        ### C.A.C.A.
+        **Theme:** Cryptanalysis using cellular automata
+        **_Vibe:_** Hack the noise with emergent patterns
+      </div>
+      <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        ### MengerSponge
+        **Theme:** Fractal Theory of Everything
+        **_Vibe:_** Cosmology meets recursion
+      </div>
+    </div>
+    <br>
+    
+    <h2>**My Philosophy**</h2>
+    <p>Every project here is some kind of **Rebellion:**<br>
+      **Against** dull tools<br>
+      **Against** invisible surveillance<br>
+      **Against** entropy in thought</p>
+    <p>I **build** things because I _**need**_ to **understand** them. Then I **polish** them so _**you**_ can too.**</p>
+    <p>_**Sometimes I fail**_. Sometimes I _disappear_ for a while. But **every** time I come back, it’s with something **stranger**, _cleaner_, _**faster**_, or more _*symbolic*_ than before.</p>
+    <p><h3>## If You're New Here:
+      **- Start with something wild:**
+      <br>- Run woflang and try :sigil: dreamings into math worlds
+      <br>- Fire up GhostModeVanisher and ...disappear
+      <br>- Peek inside The MengerSponge Multiverse and zoom out from the cosmos
+      <br>Or if you're more hands-on:
+      <br>### - Clone the **UA** RNG Lib and benchmark your CPU/GPU
+      <br>- Crack open the Laplace denoiser and watch the 'staticy' mess melt
+      <br>- Feed C.A.C.A. an encrypted binary and see if patterns whisper back
+    </h3></p>
+    <p>
+      ![whisprer's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=whisprer\&card_width=300&show_icons=true&theme=tokyonight&bg_color=00000000&layout=compact)
+    </p>
+  </div>
+</div>
