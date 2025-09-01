@@ -19,15 +19,32 @@
         *Each* repo is either an **Artifact of War**, a _Tribute to Elegance_, or an _**Accidental Poem**_. And Sometimes... **_all three_**.
       </p>
   
+  <div>
+
+<div style="flex: 1 1 45%; min-width: 280px;">  
   <p align="left">
     <a href="https://github.com/whisprer/github-readme-stats">
       <img
-      height="320"
-        src="https://github-readme-stats.vercel.app/api?username=whisprer&card_width=280&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&theme=tokyonight&layout=compact&show_icons=true&bg_color=00000000"
+    height="320"  
+src="https://github-readme-stats.vercel.app/api?username=whisprer&card_width=280&show_icons=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&theme=tokyonight&layout=compact&show_icons=true&bg_color=00000000"
     alt="whisprer's GitHub stats"
     />
   </a>
 </p>
+
+</div>
+  
+<p align="right">
+  <a href="https://github.com/whisprer/github-readme-stats">
+    <img
+    height="280"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&card_width=300&exclude_repo=whisprer.github.io,Custom_Stock_screener,whatiswe.github,desktop-tutorial,server_stuff,Medium-Posts,rtc-Jsonifier,github-readme-stats&theme=tokyonight&bg_color=00000000&layout=compact"
+    &alt="Top Languages"
+     />
+   </a>
+ </p>
+       
+   </div>
 
   <div style="flex: 1 1 55%; med-width: 450px;">
           <a align="center">
@@ -81,20 +98,6 @@
 </div>
 
 <div style="flex: 1 1 45%; min-width: 300px;">
-
- <div>
-    </p>
-    <p align="right">
-    <a href="https://github.com/whisprer/github-readme-stats">
-    <img
-    height="280"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&card_width=300&exclude_repo=whisprer.github.io,Custom_Stock_screener,whatiswe.github,desktop-tutorial,server_stuff,Medium-Posts,rtc-Jsonifier,github-readme-stats&theme=tokyonight&bg_color=00000000&layout=compact"
-    &alt="Top Languages"
-    />
-    </a>
-    </p>
-  </div>
-
 </div>
 
 ---
