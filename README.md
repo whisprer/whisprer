@@ -23,7 +23,7 @@ GitHub Stats
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=whisprer&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" alt="whisprer's GitHub stats" />
 </a>
 <a href="https://github.com/whisprer/github-readme-stats">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&exclude_repo=whisprer.github.io,Custom_Stock_screener,whatiswe.github,desktop-tutorial,server_stuff,Medium-Posts,rtc-Jsonifier,github-readme-stats&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whisprer&exclude_repo=whisprer.github.io,Custom_Stock_screener,whatiswe.github,desktop-tutorial,server_stuff,Medium-Posts,rtc-Jsonifier,github-readme-stats&show_owner=true&hide=powershell,shell&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true" alt="Top Languages" />
 </a>
 <a href="https://github.com/whisprer/github-readme-stats">
   <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=whisprer&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true" alt="whisprer's WakaTime stats" />
