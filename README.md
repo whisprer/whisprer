@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whisprer&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true&repo=proc_wolf)](https://github.com/whispr/proc_wolf) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whispr-dev&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true&repo=a_tarot_for_the_modern_age)](https://github.com/whispr-dev/a_tarot_for_the_modern_age) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whisprer&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true&repo=benchmark)](https://github.com/whisprer/benchmark) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whispr-dev&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true&repo=The-Litehaus-Network)](https://github.com/whispr-dev/The-Litehaus-Network)
+
 <table>
 <tr>
 <td colspan="2">
