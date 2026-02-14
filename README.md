@@ -77,6 +77,8 @@ TL;DR
 If you like code that's alive, thought that loops, systems that vanish, and languages that dream — you'll feel right at home here.
 Clone something. Break it. Rebuild it better... Welcome to the rebellion, fren.
 
+buymeacoffee.com/whisprer 
+
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whisprer&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true&repo=proc-wolf)](https://github.com/whisprer/proc-wolf) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whispr-dev&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true&repo=a_tarot_for_the_modern_age)](https://github.com/whispr-dev/a_tarot_for_the_modern_age) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whisprer&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true&repo=benchmark)](https://github.com/whisprer/benchmark) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whisprer&theme=tokyonight&bg_color=00000000&layout=compact&hide_border=true&repo=zigbee-analyzer)](https://github.com/whisprer/zigbee-analyzer)
